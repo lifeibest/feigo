@@ -1,0 +1,1 @@
+/usr/local/var/www/go/src/github.com/lifeibest/feigo/views/post/edit.tpl
